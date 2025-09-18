@@ -1,0 +1,19 @@
+{
+    "name": "mohamedsalamamousa/example-package",
+    "description": "\"test packeage\"",
+    "type": "library",
+    "license": "Mit",
+    "autoload": {
+        "psr-4": {
+            "Mohamedsalamamousa\\ExamplePackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohamed Salama",
+            "email": "slamtm608@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
